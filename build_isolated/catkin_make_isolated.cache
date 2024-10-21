@@ -1,0 +1,2 @@
+zh666
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/fzhznl/f001/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/fzhznl/f001/install_isolated

@@ -1,0 +1,8 @@
+prefix=/home/fzhznl/f001/install
+
+Name: zh666
+Description: Description of zh666
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
