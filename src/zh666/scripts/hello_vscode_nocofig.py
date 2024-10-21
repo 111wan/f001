@@ -1,4 +1,4 @@
-#! /home/fzhznl/anaconda3/bin/python
+#! /home/fzhznl/anaconda3/bin/python3
 """
     需求: 实现基本的话题通信，一方发布数据，一方接收数据，
          实现的关键点:
